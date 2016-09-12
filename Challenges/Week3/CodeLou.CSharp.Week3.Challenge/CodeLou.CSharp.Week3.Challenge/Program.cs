@@ -7,15 +7,17 @@ namespace CodeLou.CSharp.Week3.Challenge
 	{
 		static void Main(string[] args)
 		{
-			// Overview:
-			// In this assignment, you will be creating a calendar application that will load and save data. An example of loading and saving data has been provided.
-			// This calendar application will accept multiple event types which will be represented by their own class types. 
-			// You will be dealing with Appointments, Meetings, and Reminders.
+            // Overview:
+            // In this assignment, you will be creating a calendar application that will load and save data. An example of loading and saving data has been provided.
+            // This calendar application will accept multiple event types which will be represented by their own class types. 
+            // You will be dealing with Appointments, Meetings, and Reminders.
 
-			// Task 1:
-			// Create new classes that will represent the calendar items that you will be using. 
-			// Each of your classes will inherit from the CalendarItemBase abstract class.
-			// Reminders have already been created as an example.
+            // Task 1:
+            // Create new classes that will represent the calendar items that you will be using. 
+            // Each of your classes will inherit from the CalendarItemBase abstract class.
+            // Reminders have already been created as an example.
+
+            //CHECK 
 			
 			// Task 2:
 			// Define Your Data
