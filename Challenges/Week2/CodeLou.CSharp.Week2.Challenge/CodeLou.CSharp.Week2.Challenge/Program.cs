@@ -54,19 +54,6 @@ namespace CodeLou.CSharp.Week2.Challenge
             //       Developer Network (MSDN) website contains all of the documentation for C#. If you want
             //       to learn more about loops, visit https://msdn.microsoft.com/en-us/library/32dbftby.aspx.
 
-            else {
-                while (y > 0)
-                {
-                    Console.WriteLine(y);
-                    y--;
-                }
-
-                Console.WriteLine("LIFTOFF!");
-            }
-
-
-
-
             Console.WriteLine("Press <Enter> to exit...");
             Console.ReadLine();
         }
